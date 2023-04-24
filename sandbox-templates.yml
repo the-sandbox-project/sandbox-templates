@@ -1,3 +1,13 @@
 languages:
   rust:
-    rust.tar.gz: "minimal"
+    rust-min:
+      title: Default Rust Project
+      description: Minimal Rust Project, Created with Cargo new
+      path: rust/rust.tar.gz
+      keywords: rust cargo minimal
+  go:
+    go-min:
+      title: Default Golang Project
+      description: Minimal Golang Project
+      path: go/go.tar.gz
+      keywords: go golang minimal
